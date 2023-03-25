@@ -1,5 +1,5 @@
 
-## 🔗 Jak chcesz to możesz wbij zhejtowac:
+## 🔗 Jak chcesz to możesz wbic zhejtowac:
 📫 [EL-CHEM Sp. z o.o.](https://lighthearted-marigold-4cafd4.netlify.app)
 
 ### Screen
