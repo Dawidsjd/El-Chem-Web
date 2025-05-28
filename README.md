@@ -1,5 +1,5 @@
 
-## 🔗 Jak chcesz to możesz wbic zhejtowac:
+## 🔗 Live preview:
 📫 [EL-CHEM Sp. z o.o.](https://el-chem.netlify.app/)
 
 ### Screen
