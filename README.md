@@ -3,4 +3,5 @@
 📫 [EL-CHEM Sp. z o.o.](https://el-chem.netlify.app/)
 
 ### Screen
-![App Screenshot](https://cdn.discordapp.com/attachments/841628394441408512/1089302811566674063/lighthearted-marigold-4cafd4.netlify.app_.png)
+![el-chem netlify app_ (1)](https://github.com/user-attachments/assets/87234d3e-0ca6-4522-b973-cf424f365b81)
+
